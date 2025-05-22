@@ -1,6 +1,7 @@
 ---
 <img src="https://komarev.com/ghpvc/?username=GustavoVezetiv&color=8257E5" alt="Profile views" />
-# Hey there! I’m Gustavo Vezetiv.
+
+## Hey there! I’m Gustavo Vezetiv.
 I'm a student, aspiring developer, and passionate tech enthusiast.  
 Currently learning and building projects while drawing inspiration from the master [Gustavo Guanabara](https://github.com/gustavoguanabara). 🦗
 
