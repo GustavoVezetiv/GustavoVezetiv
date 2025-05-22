@@ -1,4 +1,3 @@
----
 <img src="https://komarev.com/ghpvc/?username=GustavoVezetiv&color=8257E5" alt="Profile views" />
 
 ## Hey there! I’m Gustavo Vezetiv.
