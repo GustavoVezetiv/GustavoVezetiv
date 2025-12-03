@@ -67,10 +67,13 @@ Currently learning and building projects while drawing inspiration from the mast
 
 ## GitHub Statistics 🧮
 
-<div>
+<div align="center">
+<!--   <a href="https://github.com/GustavoVezetiv">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoVezetiv&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+  </a> -->
+  <br/>
   <a href="https://github.com/GustavoVezetiv">
-    <img loading="lazy" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoVezetiv&layout=compact&langs_count=7&theme=vue-dark"/>
-    <img loading="lazy" height="180px" src="https://github-readme-stats.vercel.app/api?username=GustavoVezetiv&show_icons=true&theme=vue-dark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=GustavoVezetiv&theme=onestar&no-frame=true&column=4" alt="Trophies" />
   </a>
 </div>
 
