@@ -117,7 +117,6 @@ Atualmente desenvolvendo projetos reais com **Django, React Native, PostgreSQL, 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-vezetiv-08416126b/)
 - 📫 [Email](mailto:gustavovezetiv8@gmail.com)
-
----
+- 🌐 [Portfolio](https://vezetiv.vercel.app/)
 
 ⚡ Fun fact: Quando não estou programando, provavelmente estou estudando sobre **redes, segurança**, ou jogando RPG ou refletindo sobre o peso abundante de todas as coisas. 🎲💥
