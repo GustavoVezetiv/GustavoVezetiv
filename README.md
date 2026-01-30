@@ -1,5 +1,9 @@
 [![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGustavoVezetiv&count_bg=%23005590&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://github.com/GustavoVezetiv)
 
+[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGustavoVezetiv&count_bg=%23005590&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://github.com/GustavoVezetiv)
+
+![Profile Views](https://komarev.com/ghpvc/?username=GustavoVezetiv&color=005590)
+
 # Hi there! I’m Gustavo Vezetiv. 👨‍💻
 ### T-Shaped Developer | Backend, DevOps & ERP Specialist
 
