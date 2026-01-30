@@ -1,4 +1,5 @@
-<img src="https://komarev.com/ghpvc/?username=GustavoVezetiv&color=005590" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=GustavoVezetiv&color=8257E5" alt="Profile views" />
+
 # Hi there! I’m Gustavo Vezetiv. 👨‍💻
 ### T-Shaped Developer | Backend, DevOps & ERP Specialist
 
@@ -8,32 +9,37 @@ My expertise lies in **Python Ecosystems**, **Data Engineering**, and **Process 
 
 ---
 
-
-
-
 ## 🚀 Tech Stack & Arsenal
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,ts,rabbitmq,postgres,docker,linux,aws,react,nextjs,tailwind,figma,git,jenkins" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  
+  <br />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+  <br />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-### 🛠️ Core Competencies
-- **Backend Engineering:** Python (Expert), Microsserviços, Event-Driven Architecture.
-- **Data Intelligence:** SQL Avançado, ETL, Power BI.
-- **Enterprise:** Microsoft Dynamics 365, ERP Systems.
+---
 
 ## 🏆 Certifications & Authority
 
-| Category | Credential / Achievement | Issuer |
+| Badge | Certification | Issuer |
 | :---: | :--- | :--- |
-| 🛡️ **Agile** | **Scrum Fundamentals Certified (SFC™)** | SCRUMstudy |
-| 🏢 **Enterprise** | **Microsoft Dynamics 365 Specialist** (10+ Certifications)<br><i>Finance, Supply Chain, Commerce, Sales, HR</i> | Microsoft |
-| 🎓 **Academic** | **Autor de Artigo Científico (Engenharia de Software)**<br><i>"Ferramenta cultural com Flutter e Injeção de Dependência"</i> | **ERI-MT 2025** |
-| 🐳 **Leadership** | **Docker Instructor** (Monitoria Técnica)<br><i>Ministrou minicursos de Containerização e DevOps</i> | IFMT |
-| 🔐 **Security** | **Segurança em TI & Proteção de Dados** | Fundação Bradesco |
-| 📊 **Data** | **Power BI & Data Modeling** | Escola do Trabalhador 4.0 |
+| 🛡️ | **Scrum Fundamentals Certified (SFC™)** | SCRUMstudy |
+| ☁️ | **Microsoft Dynamics 365 Specialist** (Finance, SCM, Sales, HR) | Microsoft |
+| 🐳 | **Docker Instructor** (Technical Monitoring) | IFMT |
+| 📊 | **Power BI & Data Modeling** | Fundação Bradesco |
 
 ---
 
