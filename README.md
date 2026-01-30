@@ -1,4 +1,5 @@
-![Profile Views]()
+
+![Profile Views](https://komarev.com/ghpvc/?username=GustavoVezetiv&color=005590)
 
 # Hi there! I’m Gustavo Vezetiv. 👨‍💻
 ### T-Shaped Developer | Backend, DevOps & ERP Specialist
