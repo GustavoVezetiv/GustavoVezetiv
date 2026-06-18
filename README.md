@@ -93,4 +93,4 @@ My expertise lies in **Python Ecosystems**, **Data Engineering**, and **Process 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-vezetiv/)
 - 📫 [Email](mailto:gustavovezetiv8@gmail.com)
-- 🌐 [Portfolio]([https://vezetiv.vercel.app/](https://vezetiv.dev/))
+- 🌐 [Portfolio]([https://vezetiv.dev])
