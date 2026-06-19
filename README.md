@@ -160,4 +160,3 @@ That mindset also fits how I work: staying calm under pressure, protecting the o
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-vezetiv/)
 - 📫 [Email](mailto:gustavovezetiv8@gmail.com)
 - 🌐 [Portfolio](https://vezetiv.dev)
-```
